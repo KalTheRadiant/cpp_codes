@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/manager/.cache/upstart/gnome-keyring-ssh.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/indicator-sound.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/upstart-event-bridge.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/window-stack-bridge.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/unity-settings-daemon.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/hud.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/ssh-agent.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/dbus.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/gpg-agent.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/unity-panel-service.log" 2019-12-2-11:2:23
+"/home/manager/.cache/upstart/unity7.log" 2019-12-2-11:2:23

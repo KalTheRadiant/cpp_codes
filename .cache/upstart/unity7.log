@@ -1,0 +1,21 @@
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x2c00001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x4600001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x2c00001 to texture
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000C,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

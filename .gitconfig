@@ -1,0 +1,9 @@
+[user]
+	name = Akash Reddy
+	email = aincrad23@gmail.com
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
